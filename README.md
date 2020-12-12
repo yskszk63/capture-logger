@@ -6,7 +6,7 @@
 
 ```toml
 [dev-dependencies]
-testlog = "0.1"
+capture-logger = "0.1"
 ```
 
 ### Example

@@ -1,4 +1,4 @@
-use capture_logger::{begin_capture, pop_captured, end_capture, Level};
+use capture_logger::{begin_capture, end_capture, pop_captured, Level};
 
 #[test]
 fn test_capture() {

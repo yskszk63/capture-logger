@@ -40,7 +40,6 @@ use std::sync::Once;
 
 pub use log::Level;
 
-
 static INITIALIZED: Once = Once::new();
 
 /// Captured log Record.
@@ -86,8 +85,7 @@ impl log::Log for Logger {
         });
     }
 
-    fn flush(&self) {
-    }
+    fn flush(&self) {}
 }
 
 /// Begin capturing log.

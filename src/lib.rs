@@ -1,4 +1,4 @@
-#![doc(html_root_url = "https://docs.rs/capture-logger/0.1.0")]
+#![doc(html_root_url = "https://docs.rs/capture-logger/0.1.1")]
 //! [`log`](https://docs.rs/log/0.4.11/log/) implementation for testing.
 //!
 //! ## Dependencies

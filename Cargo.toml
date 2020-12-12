@@ -1,0 +1,14 @@
+[package]
+name = "capture-logger"
+version = "0.1.0"
+authors = ["yskszk63 <yskszk63@gmail.com>"]
+edition = "2018"
+description = "log implementation for testing."
+repository = "https://github.com/yskszk63/capture-logger"
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+keywords = ["log", "test"]
+categories = ["development-tools"]
+
+[dependencies]
+log = "0.4"
